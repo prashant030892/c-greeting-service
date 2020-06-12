@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.centime</groupId>
-	<artifactId>GreetingService</artifactId>
+	<artifactId>greeting-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>GreetingService</name>
+	<name>greeting-service</name>
 	<description>Greeting MicroService</description>
 
 	<properties>
